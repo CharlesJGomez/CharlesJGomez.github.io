@@ -1,4 +1,4 @@
-outgoing_mins_per_month,outgoing_sms_per_month,monthly_mb,use_id,platform,use_type_id
+outgoing_mins_per_month,outgoing_sms_per_month,monthly_mb,use_id,platform_id,use_type_id
 21.97,4.82,1557.33,22787,ios,2
 1710.08,136.88,7267.55,22788,android,1
 1710.08,136.88,7267.55,22789,android,1
